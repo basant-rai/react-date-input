@@ -1,0 +1,29 @@
+{
+  "name": "react-date",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Basant Rai",
+    "email": "bassuntrai@gmail.com",
+    "url": "https://www.basantrai.com.np/"
+  },
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "dependencies": {
+    "clsx": "^2.1.1",
+    "date-fns": "^4.1.0",
+    "tailwind-merge": "^3.3.1",
+    "tailwindcss": "^4.1.10"
+  },
+  "devDependencies": {
+    "@types/react-dom": "^19.1.6"
+  }
+}
