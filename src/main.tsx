@@ -42,7 +42,7 @@ const sizeStyle = {
  * @param param0 
  * @returns 
  */
-const DateField: React.FC<Props> = ({
+const ReactDateInput: React.FC<Props> = ({
   onDateChange,
   disabled,
   value,
@@ -415,4 +415,4 @@ const DateField: React.FC<Props> = ({
   );
 };
 
-export default DateField;
+export default ReactDateInput;
